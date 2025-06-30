@@ -1,5 +1,3 @@
-# Tableau-Shinyapp
-
 ## 📊 Interactive Dashboards
 
 ### 👉 Tableau Dashboard
